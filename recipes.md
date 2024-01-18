@@ -38,7 +38,7 @@ Ingredients:
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
 - Salt and pepper to taste
-
+g
 Instructions:
 1. Preheat oven to 350°F.
 2. Place baguette slices on a baking sheet and bake for 5-7 minutes or until lightly toasted.
@@ -56,6 +56,7 @@ Ingredients:
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
 - 1 egg
+- 2 tsp of basil
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
@@ -80,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+-Pickles
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -114,3 +116,17 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 
+### Kraft Dinner
+
+Ingredients:
+- 2 package of kraft dinner
+- 1 tbsp of butter
+
+
+Instructions:
+1. Bring a potof water to a boil
+2. Open and empty kraft dinner to box into pot
+3. Heat and stir until noodles are soft
+4. When noodles are cooked, drain water
+5. Put noodles back into pot, add package of cheese contents from box and butter
+6. Stir and add to bowl
