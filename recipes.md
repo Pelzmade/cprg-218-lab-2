@@ -120,13 +120,14 @@ Instructions:
 
 Ingredients:
 - 2 package of kraft dinner
+- 1 Cup of Milk
 - 1 tbsp of butter
 
 
 Instructions:
-1. Bring a potof water to a boil
-2. Open and empty kraft dinner to box into pot
-3. Heat and stir until noodles are soft
+1. Bring a pot of water to a boil
+2. Open and empty box of kraft dinner into pot
+3. Heat pot of KD and stir until noodles are soft
 4. When noodles are cooked, drain water
-5. Put noodles back into pot, add package of cheese contents from box and butter
+5. Put noodles back into pot, add milk & package of cheese contents from box and butter
 6. Stir and add to bowl
