@@ -120,7 +120,7 @@ Instructions:
 
 Ingredients:
 - 2 package of kraft dinner
-- 1 Cup of Milk
+- 1 Cup of milk
 - 1 tbsp of butter
 
 
